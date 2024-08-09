@@ -4,6 +4,7 @@ const User = ({ user }) => {
   const userStyle = {
     border: "2px solid grey",
     margin: "10px",
+    padding: "20px",
   };
   return (
     <div style={userStyle}>
